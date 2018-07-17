@@ -13,7 +13,7 @@ namespace Phoneword
         Button translateButton;
         Button callButton;
 
-        string translatedNumber;
+        string translatedNumber; 
 
         public MainPage()
 		{
